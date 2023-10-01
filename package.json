@@ -2,7 +2,7 @@
   "name": "firesize",
   "version": "0.0.1",
   "dependencies": {
-    "css-loader": "^4.0.0",
+    "css-loader": "^5.0.0",
     "bootstrap-webpack": "0.0.5",
     "file-loader": "^6.0.0",
     "font-awesome": "^4.2.0",
